@@ -13,7 +13,7 @@
 </a>    
 <a href="https://github.com/vinicius-leitao/vinicius-leitao.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-leitao&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-leitao&repo=vinicius-leitao.github.io&theme=material-palenight" />
 </a>
 
  
