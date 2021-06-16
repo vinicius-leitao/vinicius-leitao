@@ -22,7 +22,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 **Languages and Tools**
 
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /><code>
+<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /></code>
  
 <div>
  
