@@ -4,7 +4,7 @@
 </a>
 <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&theme=material-palenight" />
 </a>
 
  
