@@ -12,10 +12,6 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 - 🌱 I’m currently learning Back-end development
 - 👯 I’m looking to collaborate on Adopet
 
-
-
-
-
 <hr>
 
 **My GitHub Stats**
@@ -50,7 +46,15 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 <hr>
 
 
-[![Spotify](https://vinicius-leitao.vercel.app/api/spotify)](https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://vinicius-leitao.vercel.app/api/spotify)](https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)
+
+  </td>
+  </table>
+
 
 
 <hr>
