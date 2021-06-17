@@ -49,7 +49,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 <hr>
 
-[![Spotify](https://vinicius-leitao.vercel.app/api/spotify)(https://open.spotify.com/user/vinileitao)]
+[![Spotify](https://vinicius-leitao.vercel.app/api/spotify)(https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)]
 
 <hr>
  
