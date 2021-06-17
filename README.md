@@ -46,6 +46,12 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 <img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 
+
+<hr>
+
+![Spotify](https://vinicius-leitao.vercel.app/api/spotify)](https://open.spotify.com/user/vinileitao)
+
+<hr>
  
 <div>
  
