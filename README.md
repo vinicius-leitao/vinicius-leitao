@@ -1,16 +1,15 @@
 ### Hi there, I'm Vinícius!
 <hr>
-
-<span>
-  
+<div align="left">
 Hi, I'm Vinícius, a passionate web developer from Brazil.
 - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo) 
 - 🌱 I’m currently learning Back-end development
 - 👯 I’m looking to collaborate on Adopet
+</div>
 
-</span>
 
-<div style="display: inline_block !important">
+
+<div align="right">
   
 <img height="200" width="200" src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=790b7611f0c104923b4355d0b5f80684d63b30f73f8edf5c&rid=giphy.gif&ct=g">
   
