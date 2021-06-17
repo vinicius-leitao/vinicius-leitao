@@ -35,6 +35,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
 <img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 
  
