@@ -6,12 +6,7 @@
   - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
   - 🌱 I’m currently learning Back-end development
   - 👯 I’m looking to collaborate on Adopet
-  
-</div>
-
-<div align="right">
-  
-<img height="300" width="300" src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=790b7611f0c104923b4355d0b5f80684d63b30f73f8edf5c&rid=giphy.gif&ct=g">
+  <img height="300" width="300" src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=790b7611f0c104923b4355d0b5f80684d63b30f73f8edf5c&rid=giphy.gif&ct=g">
   
 </div>
 
