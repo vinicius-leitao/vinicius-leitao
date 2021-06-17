@@ -27,12 +27,14 @@ Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
 **Languages and Tools**
 
 <div style="display: inline_block">
-<code><img height="32" width="32" alt="vini-javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" width="40" alt="vini-python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" width="40" alt="vini-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="40" width="40" alt="vini-html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></code>
-<code><img height="40" width="40" alt="vini-css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="40" width="40" alt="vini-docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<img height="32" width="32" alt="vini-javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="40" width="40" alt="vini-python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="40" width="40" alt="vini-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="40" width="40" alt="vini-html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="40" width="40" alt="vini-css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="40" width="40" alt="vini-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
  
