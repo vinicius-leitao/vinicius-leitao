@@ -1,4 +1,4 @@
-### Hi there, I'm Vinícius 👋
+### Hi there, I'm Vinícius ![Github-animation](https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e472otvj7siu5gwa47h22fy6zoww2wu03pyvi1zfna6&rid=giphy.gif&ct=g)
 <hr>
 Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
 
