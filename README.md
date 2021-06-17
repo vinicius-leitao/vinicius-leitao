@@ -1,11 +1,13 @@
 ### Hi there, I'm Vinícius!
 <hr>
 <div style="display: inline_block;">
-Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
+ <p>Hi, I'm Vinícius, a passionate web developer from Brazil.</p>
+ <br>
 
-- 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
-- 🌱 I’m currently learning Back-end development
-- 👯 I’m looking to collaborate on Adopet
+<p>- 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)</p>
+<p>- 🌱 I’m currently learning Back-end development</p>
+<p>- 👯 I’m looking to collaborate on Adopet</p>
+ 
 </div>
 <div style="display: inline_block;" align="right"> 
  
