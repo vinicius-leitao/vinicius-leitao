@@ -8,7 +8,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 <hr>
 
-**My Github Stats**
+**My GitHub Stats**
 
 <div>
  <a href="https://github.com/vinicius-leitao/github-readme-stats">
