@@ -1,4 +1,4 @@
-### Hi there, I'm Vinícius ![Github-animation](https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e472otvj7siu5gwa47h22fy6zoww2wu03pyvi1zfna6&rid=giphy.gif&ct=g)
+### Hi there, I'm Vinícius!
 <hr>
 Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
 
@@ -14,14 +14,12 @@ Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
  <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-leitao&show_icons=true&include_all_commits=true&theme=prussian" alt="Vinicius' github stats" />
 </a>
-</div>
-<br>
-<div>
 <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=prussian" />
 </a>
 </div>
+
 <hr>
 
 **Languages and Tools**
