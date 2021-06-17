@@ -8,7 +8,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil. <br>
 - 👯 I’m looking to collaborate on Adopet
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block; height: 100px; width: 100px">
  
 ![Coding animation](https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47628vb8rs1lj93hktj3k6myo4ve1uxkh4qybvb8i6&rid=giphy.gif&ct=g)
  
