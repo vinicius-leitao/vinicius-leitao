@@ -20,6 +20,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 </a>
 </div>
 <hr>
+
 **Languages and Tools**
 
 <div>
