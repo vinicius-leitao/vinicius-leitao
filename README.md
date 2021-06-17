@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius!
 <hr>
 
-<div float="left">
+<div style="display: inline_block !important">
   
 Hi, I'm Vinícius, a passionate web developer from Brazil.
 - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo) 
