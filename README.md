@@ -9,7 +9,7 @@
 <p>- 👯 I’m looking to collaborate on Adopet</p>
  
 </div>
-<div style="display: inline_block;" align="right"> 
+<div style="float: right;"> 
  
 ![Coding animation](https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47628vb8rs1lj93hktj3k6myo4ve1uxkh4qybvb8i6&rid=giphy.gif&ct=g)
  
