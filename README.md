@@ -45,20 +45,6 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 <hr>
 
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://spotify-playing-37esmmbtr-vinicius-leitao.vercel.app)](https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)
-
-  </td>
-  </table>
-
-
-
-<hr>
- 
 <div>
  
  ![Snake animation](https://github.com/vinicius-leitao/vinicius-leitao/blob/output/github-contribution-grid-snake.svg)
