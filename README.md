@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius!
 
   
-<img align="right" height="200" width="200" src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=790b7611f0c104923b4355d0b5f80684d63b30f73f8edf5c&rid=giphy.gif&ct=g">
+<img align="right" height="150" width="150" src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=790b7611f0c104923b4355d0b5f80684d63b30f73f8edf5c&rid=giphy.gif&ct=g">
   
 
 <hr>
