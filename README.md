@@ -23,7 +23,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 **Languages and Tools**
 
-<div>
+<div style="display: flex">
 <img height="32" width="32" alt="vini-javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="32" width="32" alt="vini-python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="32" width="32" alt="vini-nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
