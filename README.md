@@ -9,6 +9,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 <hr>
 
 ** My Github Stats**
+
 <div>
  <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-leitao&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vinicius' github stats" />
