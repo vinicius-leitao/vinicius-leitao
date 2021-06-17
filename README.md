@@ -1,19 +1,20 @@
 ### Hi there, I'm Vinícius!
 <hr>
-<div style="display: inline_block;">
- <p>Hi, I'm Vinícius, a passionate web developer from Brazil.</p>
- <br>
+<p float="left">
+  Hi, I'm Vinícius, a passionate web developer from Brazil.
+  - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
+  - 🌱 I’m currently learning Back-end development
+  - 👯 I’m looking to collaborate on Adopet
+ ![Coding animation](https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47628vb8rs1lj93hktj3k6myo4ve1uxkh4qybvb8i6&rid=giphy.gif&ct=g)
+</p>
 
-<p>- 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)</p>
-<p>- 🌱 I’m currently learning Back-end development</p>
-<p>- 👯 I’m looking to collaborate on Adopet</p>
+
+
+
  
-</div>
-<div style="float: right;"> 
+
  
-![Coding animation](https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47628vb8rs1lj93hktj3k6myo4ve1uxkh4qybvb8i6&rid=giphy.gif&ct=g)
- 
-</div>
+
  
 <hr>
 
