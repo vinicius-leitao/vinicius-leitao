@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius 👋
 <hr>
 Hi, I'm Vinícius, a passionate web developer from Brazil.
-
+<br>
 - 🔭 I’m currently working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
 - 🌱 I’m currently learning Back-end development
 - 👯 I’m looking to collaborate on Adopet
