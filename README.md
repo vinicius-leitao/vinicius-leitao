@@ -19,7 +19,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=material-palenight" />
 </a>
 </div>
-
+<br><br>
 **Languages and Tools**
 
 <div>
