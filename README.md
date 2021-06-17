@@ -50,7 +50,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://vinicius-leitao.vercel.app/api/spotify-playing)](https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)
+&nbsp; <br> [![Spotify](https://vinicius-leitao.vercel.app/api/vinicius-leitao)](https://open.spotify.com/user/sc2u2tf2ul08t1p4uz2t3bxc8)
 
   </td>
   </table>
