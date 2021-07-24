@@ -1,12 +1,10 @@
 ### Hi there, I'm Vinícius!
 
-<p align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinícius-leitão">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vinícius-leitão">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinileitao2000@gmail.com">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=mailto:vinicin#5140">
-</p>
+  </a>
+<p>
 
   
 <img align="right" height="200" width="200" src="https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
