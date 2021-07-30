@@ -29,7 +29,7 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="400px" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=prussian" />
+  <img width="400px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=prussian" />
 </a>
 </div>
 
