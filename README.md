@@ -24,12 +24,12 @@ Hi, I'm Vinícius, a passionate web developer from Brazil.
 
 <div>
  <a href="https://github.com/vinicius-leitao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-leitao&show_icons=true&include_all_commits=true&theme=prussian" alt="Vinicius' github stats" />
+  <img width="450px" height="200px"  src="https://github-readme-stats.vercel.app/api?username=vinicius-leitao&show_icons=true&include_all_commits=true&theme=prussian" alt="Vinicius' github stats" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/vinicius-leitao/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=prussian" />
+  <img width="450px" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-leitao&layout=compact&theme=prussian" />
 </a>
 </div>
 
